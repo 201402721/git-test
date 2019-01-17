@@ -8,8 +8,12 @@
 
 在分支上添加第三句 branch dev
 
-在分支上修改第四句 branch dev
+在分支上第三次修改第四句 branch dev
 
 在分支上第二次添加1 branch dev
 
-在分支上第二次添加2 branch dev
+在分支上第三次修改第二次添加2 branch dev
+
+在分支上第三次添加1 branch dev
+
+在分支上第三次添加2 branch dev
