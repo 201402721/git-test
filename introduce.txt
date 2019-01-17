@@ -4,8 +4,12 @@
 
 在分支上添加第一句 branch dev
 
-在分支上添加第二句 branch dev
+在分支上修改第二句 branch dev
 
 在分支上添加第三句 branch dev
 
-在分支上添加第四句 branch dev
+在分支上修改第四句 branch dev
+
+在分支上第二次添加1 branch dev
+
+在分支上第二次添加2 branch dev
