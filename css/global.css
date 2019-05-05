@@ -1,0 +1,88 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+
+/*
+
+全局css样式表
+头尾css样式表
+全局、多页、局部多处引用样式表
+更改此样式表会造成全部或多个页面样式变动
+更改前请慎重
+作者：松鼠岭
+
+*/
+
+
+/* 全局css - 牵一发而动全身 */
+
+body {
+    min-width: 1300px;
+    color: #333;
+}
+
+.center {
+    width: 1300px;
+    margin: 0 auto;
+}
+
+.bg-f9f9f9{
+    background-color: #f9f9f9;
+}
+
+.m-t10{
+    margin-top: 10px;
+}
+
+.m-t12{
+    margin-top: 12px;
+}
+
+.m-t20{
+    margin-top: 20px;
+}
+
+.m-t30{
+    margin-top: 30px;
+}
+
+.m-b12{
+    margin-bottom: 12px;
+}
+
+.m-b20{
+    margin-bottom: 20px;
+}
+
+.m-b30{
+    margin-bottom: 30px;
+}
+
+
+/* 全局css - 牵一发而动全身 - 结束 */
+
+
+/* 全局css - 更改前慎重 */
+
+
+/* 顶部 - 开始 */
+
+
+
+
+
+
+
+
+/* 顶部 - 结束 */
+
+/* 底部 - 开始 */
+
+
+
+
+/* 底部 - 结束 */
+
+
+
